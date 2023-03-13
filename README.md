@@ -1,4 +1,4 @@
-<h1>Blog-AdminPanel-Crud</h1>
+<h1>Laravel-Blog-AdminPanel-Crud</h1>
 <p>composer install</p>
 <p>php admin serve</p>
 <p>php admin migrate</p>
